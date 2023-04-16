@@ -43,6 +43,9 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# quick install rest
+$ nest g resource
 ```
 
 ## Test
